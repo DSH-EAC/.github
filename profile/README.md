@@ -1,8 +1,20 @@
-# DSH-EAC · 揽尽万象
+<div align="center">
 
-**Embracing All Creation**
+<h1>DSH-EAC · 揽尽万象</h1>
+
+<strong><em>EAC = Embracing All Creation（揽尽万象）</em></strong>
+
+[中文](https://github.com/DSH-EAC/.github/blob/main/profile/README.md) | [English](https://github.com/DSH-EAC/.github/blob/main/profile/README.en.md)
+
+[![Organization Stars](https://img.shields.io/github/stars/DSH-EAC?style=for-the-badge&label=%E2%AD%90%20Stars&color=08C)](https://github.com/orgs/DSH-EAC/repositories?sort=stargazers) [![License: MIT](https://img.shields.io/badge/license-MIT-2EA44F?style=for-the-badge)](https://github.com/DSH-EAC/DSH-Desktop-EAC/blob/main/LICENSE)
+
+[![QQ](https://img.shields.io/badge/QQ-1083832019-blue?style=plastic&logo=qq)](https://qm.qq.com/q/vqXxQQ3rmo) [![Discord](https://img.shields.io/badge/DISCORD-DSH--EAC-blue?style=plastic&logo=discord)](https://discord.com/invite/kY48Ah8h)
+
+</div>
 
 围绕 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，构建开箱即用的桌面体验，以及可组合的插件、整合包和 UI 皮肤生态。
+
+星数为组织全部公开仓库的总和；MIT 徽章指向桌面主项目许可证，各仓库以自身许可证为准。
 
 ## 我们正在做什么
 
@@ -28,11 +40,10 @@
 
 感谢所有为 DSH-EAC 各仓库贡献代码、文档、设计、测试、反馈与建议的朋友，也感谢 DeepSeek Harness 上游及社区插件作者。
 
-以下头像汇总自组织全部公开仓库的 GitHub 提交贡献者记录，跨仓库去重，按账号名称排序；点击头像可访问个人主页。
+以下展示来自组织各公开仓库的贡献者，跨仓库去重，按账号名称排序；点击头像可访问个人主页。
 
 <p>
 <a href="https://github.com/BAIKAI23333"><img src="https://avatars.githubusercontent.com/u/196413461?v=4&amp;s=128" width="64" height="64" alt="BAIKAI23333" title="BAIKAI23333" /></a>
-<a href="https://github.com/codex"><img src="https://avatars.githubusercontent.com/u/267193182?v=4&amp;s=128" width="64" height="64" alt="codex" title="codex" /></a>
 <a href="https://github.com/dtyg123"><img src="https://avatars.githubusercontent.com/u/171705219?v=4&amp;s=128" width="64" height="64" alt="dtyg123" title="dtyg123" /></a>
 <a href="https://github.com/jiang8297"><img src="https://avatars.githubusercontent.com/u/242639667?v=4&amp;s=128" width="64" height="64" alt="jiang8297" title="jiang8297" /></a>
 <a href="https://github.com/jing-hy"><img src="https://avatars.githubusercontent.com/u/281396152?v=4&amp;s=128" width="64" height="64" alt="jing-hy" title="jing-hy" /></a>
