@@ -12,6 +12,11 @@
 
 </div>
 
+> [!IMPORTANT]
+> DSH-Desktop-EAC 正在进行重大重构，在重构期间不接受外部 Issues 和 PR。详情请关注[任务看板](https://github.com/orgs/DSH-EAC/projects/1/views/1)。
+>
+> v5 剩余的 Bug 将不再进行修复，我们会尽快推出 v6 全面替代 v5 的功能，敬请期待。
+
 围绕 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，构建开箱即用的桌面体验，以及可组合的插件、整合包和 UI 皮肤生态。
 
 星数为组织全部公开仓库的总和；MIT 徽章指向桌面主项目许可证，各仓库以自身许可证为准。
@@ -34,7 +39,7 @@
 - **打通皮肤生态**：连接宿主、皮肤管理器与默认皮肤，推进外部布局／样式的接入和自由组合。
 - **扩展 Mojobox**：继续完善宿主适配、Profile／Preset 包以及账号与发布流程。
 
-具体进度见 [任务看板](https://github.com/orgs/DSH-EAC/projects/1/views/1) 与各仓库的 Issues / Pull Requests。主仓库重构期间暂停接收外部 Issues 和 PR，请以其最新公告为准。
+具体进度见 [任务看板](https://github.com/orgs/DSH-EAC/projects/1/views/1) 与各仓库的 Issues / Pull Requests。
 
 ## 感谢每一位贡献者
 
