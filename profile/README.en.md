@@ -12,6 +12,11 @@
 
 </div>
 
+> [!IMPORTANT]
+> DSH-Desktop-EAC is undergoing a major refactor. External Issues and PRs are not being accepted during this period. Follow the [project board](https://github.com/orgs/DSH-EAC/projects/1/views/1) for details.
+>
+> Remaining v5 bugs will no longer be fixed. We are working to release v6 as soon as possible to fully replace the functionality of v5. Stay tuned.
+
 We build an out-of-the-box desktop experience around [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness), with composable plugins, curated packs, and UI skins.
 
 The star badge totals all public repositories in the organization. The MIT badge links to the desktop project's license; each repository is governed by its own license.
@@ -34,7 +39,7 @@ The organization profile and shared introduction live in [`.github`](https://git
 - **Connect the skin ecosystem:** integrate the host, skin manager, and default skin, and enable external layouts, styles, and flexible combinations.
 - **Extend Mojobox:** continue work on host adapters, Profile / Preset packs, and account and publishing workflows.
 
-Follow the [project board](https://github.com/orgs/DSH-EAC/projects/1/views/1) and each repository's Issues / Pull Requests. The main repository is temporarily not accepting external Issues or PRs during the refactor; please check its latest announcement.
+Follow the [project board](https://github.com/orgs/DSH-EAC/projects/1/views/1) and each repository's Issues / Pull Requests.
 
 ## Thank you to our contributors
 
