@@ -30,19 +30,19 @@
 <tr>
 <td width="50%" valign="top">
 <p><sub>01 / DESKTOP</sub></p>
-<h3>DSH-Desktop-EAC</h3>
+<h3>EAC-Desktop</h3>
 <p><strong>开箱即用的 DSH 桌面客户端。</strong></p>
 <p>整合桌面体验、插件能力与界面定制，为日常使用提供更完整、更顺手的工作空间。</p>
 <p>桌面集成 &nbsp; · &nbsp; 插件扩展 &nbsp; · &nbsp; 个性化界面</p>
-<p><a href="https://github.com/DSH-EAC/DSH-Desktop-EAC">查看项目 →</a> &nbsp; <a href="https://github.com/DSH-EAC/DSH-Desktop-EAC/releases">获取客户端</a></p>
+<p><a href="https://github.com/DSH-EAC/EAC-Desktop">查看项目 →</a> &nbsp; <a href="https://github.com/DSH-EAC/DSH-Desktop-EAC/releases">获取客户端</a></p>
 </td>
 <td width="50%" valign="top">
 <p><sub>02 / INTEGRATION PACK</sub></p>
-<h3>EAC Plugin Integration Pack</h3>
+<h3>EAC-Pack</h3>
 <p><strong>保留官方 Desktop，体验 EAC / AIO。</strong></p>
 <p>将 EAC / AIO 的插件与皮肤整合为一个插件包，让完整的增强体验融入熟悉的官方 Desktop。</p>
 <p>插件整合 &nbsp; · &nbsp; 统一管理 &nbsp; · &nbsp; 便捷更新</p>
-<p><a href="https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack">查看项目 →</a> &nbsp; <a href="https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack#readme">安装与使用</a></p>
+<p><a href="https://github.com/DSH-EAC/EAC-Pack">查看项目 →</a> &nbsp; <a href="https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack#readme">安装与使用</a></p>
 </td>
 </tr>
 </table>
