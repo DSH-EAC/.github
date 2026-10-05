@@ -24,8 +24,7 @@
 
 ## 两种入口，自由选择
 
-直接使用 EAC 桌面客户端，或在官方 Desktop 中接入 EAC / AIO。<br />
-选择适合自己的方式，让丰富的插件能力融入日常使用。
+使用 EAC 桌面客户端，或在官方 Desktop 中安装 EAC插件包<br />
 
 <table width="100%">
 <tr>
@@ -41,7 +40,7 @@
 <p><sub>02 / INTEGRATION PACK</sub></p>
 <h3>EAC-Pack</h3>
 <p><strong>保留官方 Desktop，体验 EAC / AIO。</strong></p>
-<p>将 EAC / AIO 的插件与皮肤整合为一个插件包，让完整的增强体验融入熟悉的官方 Desktop。</p>
+<p>一个整合大量插件的插件包，让完整的增强体验融入熟悉的官方 Desktop。</p>
 <p>插件整合 &nbsp; · &nbsp; 统一管理 &nbsp; · &nbsp; 便捷更新</p>
 <p><a href="https://github.com/DSH-EAC/EAC-Pack">查看项目 →</a> &nbsp; <a href="https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack#readme">安装与使用</a></p>
 </td>
