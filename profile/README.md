@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" alt="DSH-EAC · 揽尽万象 — 桌面体验、插件整合与个性化生态" width="100%" />
+  <img src="./assets/eac-org.svg" alt="DSH-EAC · 揽尽万象 — 桌面体验、插件整合与个性化生态" width="100%" />
 </p>
 
 <div align="center">
