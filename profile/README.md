@@ -76,30 +76,26 @@
 <table>
 <tr>
 <td align="center" valign="top" width="180">
-<a href="https://github.com/metaone01"><img src="https://avatars.githubusercontent.com/u/99704629?s=192&amp;v=4" width="88" height="88" alt="metaone01" /></a><br />
-<strong><a href="https://github.com/metaone01">metaone01</a></strong><br />
-<sub></sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://github.com/says693"><img src="https://avatars.githubusercontent.com/u/317628891?s=192&amp;v=4" width="88" height="88" alt="says693" /></a><br />
-<strong><a href="https://github.com/says693">says693</a></strong><br />
-<sub></sub>
-</td>
-<td align="center" valign="top" width="180">
 <a href="https://github.com/T-Auto"><img src="https://avatars.githubusercontent.com/u/183904010?s=192&amp;v=4" width="88" height="88" alt="T-Auto" /></a><br />
 <strong><a href="https://github.com/T-Auto">T-Auto</a></strong><br />
-<sub></sub>
+<sub>组织管理 &amp; 生态建设</sub>
 </td>
 <td align="center" valign="top" width="180">
 <a href="https://github.com/Ebony-Vinyl"><img src="https://avatars.githubusercontent.com/u/245557608?s=192&amp;v=4" width="88" height="88" alt="Ebony-Vinyl" /></a><br />
 <strong><a href="https://github.com/Ebony-Vinyl">Ebony-Vinyl</a></strong><br />
-<sub></sub>
+<sub>项目发起 &amp; 灵感创意</sub>
+</td>
+<td align="center" valign="top" width="180">
+<a href="https://github.com/says693"><img src="https://avatars.githubusercontent.com/u/317628891?s=192&amp;v=4" width="88" height="88" alt="says693" /></a><br />
+<strong><a href="https://github.com/says693">says693</a></strong><br />
+<sub>视觉设计 &amp; 交流外宣</sub>
 </td>
 </tr>
 </table>
+<!-- TEAM:END -->
 
 
-<sub>按账号名称排序，不分先后。职责后续补充。</sub>
+<sub>※排序不分先后</sub>
 <!-- TEAM:END -->
 
 ## 贡献者
@@ -125,8 +121,6 @@
 <a href="https://github.com/Ebony-Vinyl"><img src="./assets/avatars/245557608.png" width="64" height="64" alt="Ebony-Vinyl" title="Ebony-Vinyl" /></a>
 </p>
 <!-- CONTRIBUTORS:END -->
-
-<sub>头像汇总自组织各公开仓库的 GitHub 提交贡献统计，跨仓库按账号去重、按名称排序，不代表贡献排名。也感谢尚未关联 GitHub 账号，以及贡献设计、测试、文档、反馈与建议的参与者。</sub>
 
 ## License
 
