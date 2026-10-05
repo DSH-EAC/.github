@@ -4,9 +4,7 @@
 
 <div align="center">
 **Embracing All Creation · 揽尽万象**
-
 ### 致力于让数百个DSH插件和谐共存
-
 共同建设 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)生态
 
 [![Organization Stars](https://img.shields.io/github/stars/DSH-EAC?style=for-the-badge&label=%E2%AD%90%20Stars&color=08C)](https://github.com/orgs/DSH-EAC/repositories?sort=stargazers)
