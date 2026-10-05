@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/eac-org.svg" alt="DSH-EAC · 揽尽万象 — 桌面体验、插件整合与个性化生态" width="100%" />
+  <img src="./assets/eac-org.svg" alt="DSH-EAC · 揽尽万象 — 桌面体验、插件整合与个性化生态" width="720" />
 </p>
 
 <div align="center">
@@ -14,9 +14,14 @@
 
 [![QQ](https://img.shields.io/badge/QQ-1083832019-blue?style=plastic&logo=qq)](https://qm.qq.com/q/vqXxQQ3rmo) [![Discord](https://img.shields.io/badge/DISCORD-DSH--EAC-blue?style=plastic&logo=discord)](https://discord.com/invite/kY48Ah8h)
 
-<br />
-
-[桌面客户端](https://github.com/DSH-EAC/DSH-Desktop-EAC) &nbsp; · &nbsp; [插件整合包](https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack) &nbsp; · &nbsp; [探索生态](#插件与皮肤生态) &nbsp; · &nbsp; [参与共建](#一起让体验更好) &nbsp; · &nbsp; [维护团队](#维护团队)
+<p align="center">
+  <a href="https://github.com/DSH-EAC/EAC-Desktop"><strong>桌面客户端</strong></a>
+  &nbsp; &nbsp; / &nbsp; &nbsp;
+  <a href="https://github.com/DSH-EAC/EAC-Pack"><strong>插件整合包</strong></a>
+</p>
+<p align="center">
+  <sub><a href="#插件与皮肤生态">探索生态</a> &nbsp; · &nbsp; <a href="#一起让体验更好">参与共建</a> &nbsp; · &nbsp; <a href="#维护团队">维护团队</a></sub>
+</p>
 
 </div>
 
