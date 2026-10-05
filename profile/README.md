@@ -91,8 +91,8 @@
 <sub></sub>
 </td>
 <td align="center" valign="top" width="180">
-<a href="https://github.com/zouyuxuan122"><img src="https://avatars.githubusercontent.com/u/245557608?s=192&amp;v=4" width="88" height="88" alt="zouyuxuan122" /></a><br />
-<strong><a href="https://github.com/zouyuxuan122">zouyuxuan122</a></strong><br />
+<a href="https://github.com/Ebony-Vinyl"><img src="https://avatars.githubusercontent.com/u/245557608?s=192&amp;v=4" width="88" height="88" alt="Ebony-Vinyl" /></a><br />
+<strong><a href="https://github.com/Ebony-Vinyl">Ebony-Vinyl</a></strong><br />
 <sub></sub>
 </td>
 </tr>
@@ -122,7 +122,7 @@
 <a href="https://github.com/T-Auto"><img src="./assets/avatars/183904010.png" width="64" height="64" alt="T-Auto" title="T-Auto" /></a>
 <a href="https://github.com/ViscaOwO"><img src="./assets/avatars/221565198.png" width="64" height="64" alt="ViscaOwO" title="ViscaOwO" /></a>
 <a href="https://github.com/zixin947"><img src="./assets/avatars/318131693.png" width="64" height="64" alt="zixin947" title="zixin947" /></a>
-<a href="https://github.com/zouyuxuan122"><img src="./assets/avatars/245557608.png" width="64" height="64" alt="zouyuxuan122" title="zouyuxuan122" /></a>
+<a href="https://github.com/Ebony-Vinyl"><img src="./assets/avatars/245557608.png" width="64" height="64" alt="Ebony-Vinyl" title="Ebony-Vinyl" /></a>
 </p>
 <!-- CONTRIBUTORS:END -->
 
