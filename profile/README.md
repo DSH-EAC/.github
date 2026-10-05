@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 让插件各展所长，让体验融为一体。
+### 致力于让数百个DSH插件和谐共存
 
 [![Organization Stars](https://img.shields.io/github/stars/DSH-EAC?style=for-the-badge&label=%E2%AD%90%20Stars&color=08C)](https://github.com/orgs/DSH-EAC/repositories?sort=stargazers)
 
