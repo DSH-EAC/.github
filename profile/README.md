@@ -6,13 +6,15 @@
 
 ### 致力于让数百个DSH插件和谐共存
 
+共同建设 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)生态
+
+**Embracing All Creation · 揽尽万象**
+
 [![Organization Stars](https://img.shields.io/github/stars/DSH-EAC?style=for-the-badge&label=%E2%AD%90%20Stars&color=08C)](https://github.com/orgs/DSH-EAC/repositories?sort=stargazers)
 
 [![QQ](https://img.shields.io/badge/QQ-1083832019-blue?style=plastic&logo=qq)](https://qm.qq.com/q/vqXxQQ3rmo) [![Discord](https://img.shields.io/badge/DISCORD-DSH--EAC-blue?style=plastic&logo=discord)](https://discord.com/invite/kY48Ah8h)
 
-共同建设 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)生态<br />
-
-**Embracing All Creation · 揽尽万象**
+<br />
 
 [桌面客户端](https://github.com/DSH-EAC/DSH-Desktop-EAC) &nbsp; · &nbsp; [插件整合包](https://github.com/DSH-EAC/EAC-Plugin-Integration-Pack) &nbsp; · &nbsp; [探索生态](#插件与皮肤生态) &nbsp; · &nbsp; [参与共建](#一起让体验更好) &nbsp; · &nbsp; [维护团队](#维护团队)
 
