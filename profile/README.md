@@ -10,8 +10,7 @@
 
 [![QQ](https://img.shields.io/badge/QQ-1083832019-blue?style=plastic&logo=qq)](https://qm.qq.com/q/vqXxQQ3rmo) [![Discord](https://img.shields.io/badge/DISCORD-DSH--EAC-blue?style=plastic&logo=discord)](https://discord.com/invite/kY48Ah8h)
 
-围绕 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)，<br />
-打造开箱即用的桌面体验，连接插件、皮肤与创作者。
+建设 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)生态<br />
 
 **Embracing All Creation · 揽尽万象**
 
