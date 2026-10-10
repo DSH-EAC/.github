@@ -74,34 +74,6 @@
 
 感谢 DeepSeek Harness 上游，以及每一位贡献代码、设计、皮肤、文档与反馈的朋友。
 
-## 维护团队
-
-<!-- TEAM:START -->
-<table>
-<tr>
-<td align="center" valign="top" width="180">
-<a href="https://github.com/T-Auto"><img src="https://avatars.githubusercontent.com/u/183904010?s=192&amp;v=4" width="88" height="88" alt="T-Auto" /></a><br />
-<strong><a href="https://github.com/T-Auto">T-Auto</a></strong><br />
-<sub>组织管理 &amp; 生态建设</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://github.com/Ebony-Vinyl"><img src="https://avatars.githubusercontent.com/u/245557608?s=192&amp;v=4" width="88" height="88" alt="Ebony-Vinyl" /></a><br />
-<strong><a href="https://github.com/Ebony-Vinyl">Ebony-Vinyl</a></strong><br />
-<sub>项目发起 &amp; 灵感创意</sub>
-</td>
-<td align="center" valign="top" width="180">
-<a href="https://github.com/says693"><img src="https://avatars.githubusercontent.com/u/317628891?s=192&amp;v=4" width="88" height="88" alt="says693" /></a><br />
-<strong><a href="https://github.com/says693">says693</a></strong><br />
-<sub>视觉设计 &amp; 交流外宣</sub>
-</td>
-</tr>
-</table>
-<!-- TEAM:END -->
-
-
-<sub>※排序不分先后</sub>
-<!-- TEAM:END -->
-
 ## 贡献者
 
 感谢每一位让 EAC 变得更好的朋友。
